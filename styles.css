@@ -1,0 +1,28 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 17px;
+    font-family: Arial;
+    color: #d9d9d9;
+    background-color: black;
+    padding: 0 10px
+}
+
+h1,h2 {
+    line-height: 1.2
+}
+
+h3 {
+    line-height: 0.6
+}
+
+a {
+    color: #0088c3;
+    text-decoration: underline;
+}
+
+.next {
+    display: flex; 
+    justify-content: space-between;
+}
