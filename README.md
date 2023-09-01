@@ -1,2 +1,3 @@
 # website
-My personal website files
+
+Thesea are the ```html``` and ```css``` files for my yet unfinished personal website.
